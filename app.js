@@ -1,3 +1,4 @@
 $(document).ready (function(){
-	$("h1").html("Goodbye")
+	$("h1").html("Goodbye");
+	$("h2").css("color", "green")
 });
